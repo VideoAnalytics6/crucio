@@ -1,4 +1,4 @@
-# Crucio: End-to-End Spatio-Temporal Redundancy Elimination for Online Video Analytics Acceleration
+# Crucio: End-to-End Coordinated Spatio-Temporal Redundancy Elimination for Fast Video Analytics
 
 This repository hosts the prototype implementation of our paper *Crucio: End-to-End Spatio-Temporal Redundancy Elimination for Online Video Analytics Acceleration*.
 
